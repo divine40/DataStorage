@@ -4,7 +4,7 @@ This Unity project demonstrates how to use ScriptableObjects to manage player da
 
   Features
 
-- 1. Uses ScriptableObject to store player profile data.
-- 2. Displays values using TextMeshPro UI elements.
-- 3. Stores and loads values using PlayerPrefs.
-- 4. Demonstrates clean separation of data and logic.
+  1. Uses ScriptableObject to store player profile data.
+  2. Displays values using TextMeshPro UI elements.
+  3. Stores and loads values using PlayerPrefs.
+  4. Demonstrates clean separation of data and logic.
